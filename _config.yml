@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
   email: "pixelotes@pixelotes.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  #facebook: deanattali
   github: github.com/pixelotes
   twitter: donpastor92
   #patreon: DeanAttali
