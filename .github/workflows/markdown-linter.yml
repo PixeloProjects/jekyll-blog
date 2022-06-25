@@ -1,3 +1,6 @@
+name: Markdown linter
+on: [push, pull_request]
+
 jobs:
   lint-changelog:
     name: Lint changelog file
