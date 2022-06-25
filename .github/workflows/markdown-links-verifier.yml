@@ -1,6 +1,9 @@
 name: Markdown links verifier
-working-directory: ./_posts
 on: [push, pull_request]
+
+defaults:
+  run:
+    working-directory: ./_posts
 
 jobs:
   validate_links:
