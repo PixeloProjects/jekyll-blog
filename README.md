@@ -41,7 +41,7 @@ __Check out [*What's New?*](https://beautifuljekyll.com/updates/) to see the lat
 - **Photos support**: Any page can have a full-width cover photo and thumbnail.
 - **RSS**: An RSS feed is automatically created, so you can even host a podcast easily with Beautiful Jekyll.
 
-<h2 id="sponsors">Sponsors 🏆</h2>
+# Sponsors
 
 Developing and maintaining Beautiful Jekyll takes a lot of time and effort - thank you to anyone who helps fund this effort!
 
