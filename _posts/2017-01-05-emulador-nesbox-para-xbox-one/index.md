@@ -22,4 +22,4 @@ Para comenzar haz clic sobre la ventana del emulador y pulsa el botón **A** del
 
 Estos son los controles para jugar:
 
-![](images/instr-nesbox-300x203.png)
+![](images/instr-nesbox.png)
