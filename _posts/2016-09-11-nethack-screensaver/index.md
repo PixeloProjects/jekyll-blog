@@ -27,4 +27,4 @@ Es en esa misma carpeta donde podemos añadir más archivos ttyrec para reproduc
 
 Os dejo un enlace con el salvapantallas:
 
- [![](images/icon_compressed.gif) NethackScreenSaver.zip](/wp-content/uploads/2016/09/NethackScreenSaver.zip) ([análisis de VirusTotal](https://www.virustotal.com/es/file/09914cbf9d189847c742b8ae1ca740da5659e9f0f0f54f743045912086c34757/analysis/1473553182/)).
+ [![](images/icon_compressed.gif) NethackScreenSaver.zip](files/NethackScreenSaver.zip) ([análisis de VirusTotal](https://www.virustotal.com/es/file/09914cbf9d189847c742b8ae1ca740da5659e9f0f0f54f743045912086c34757/analysis/1473553182/)).
