@@ -14,11 +14,14 @@ author: Pixelotes
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Inicio: "aboutme"
+  Secciones:
+    - Noticias: "https://beautifuljekyll.com"
+    - Analisis: "https://www.markdowntutorial.com/"
+    - Articulos: "https://www.markdowntutorial.com/"
+    - Tutoriales: "https://www.markdowntutorial.com/"
+    - Otros: "https://www.markdowntutorial.com/"
+  Apps: "https://retropix.pixelotes.com"
 
 # --- Logo --- #
 
@@ -77,7 +80,7 @@ rss-description: Pensamientos de un gamer de la vieja escuela
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -85,7 +88,7 @@ share-links-active:
 url-pretty: "Pixelotes.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 60
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -221,7 +224,7 @@ timezone: "Europe/Madrid"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 6
 
 kramdown:
   input: GFM
