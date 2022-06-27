@@ -27,29 +27,29 @@ Aunque Windows Defender no es descargable por estar integrado con Windows 8, sí
 
 Si intentamos instalarlo directamente nos mostrará el siguiente mensaje de fallo, ya que detecta que nuestro Sistema Operativo no es Windows 7:
 
-![avir001](/assets/posts/images/avir001-e1476639866986.png)
+![avir001](/assets/posts/avir001-e1476639866986.png)
 
 Para solucionarlo, tendremos que activar la ejecución en **modo compatibilidad**. Hacemos clic derecho en el instalador y clicamos en "Propiedades". Después, en la pestaña de compatibilidad, marcamos "Ejecutar este programa en modo de compatibilidad para:" y seleccionamos Windows 7 en el desplegable:
 
-![avir002](/assets/posts/images/avir002-e1476640018141.png)
+![avir002](/assets/posts/avir002-e1476640018141.png)
 
 Pulsamos el botón aceptar y acto seguido abrimos el intérprete de comandos, pulsando en el botón inicio y escribiendo "Símbolo del sistema". Una vez abierto tendremos que ir a la carpeta donde se encuentra el instalador e introducir el siguiente comando:
 
 > `mseinstall /disableoslimit`
 
-![avir003](/assets/posts/images/avir003-1.png)
+![avir003](/assets/posts/avir003-1.png)
 
 Ahora sí que se se iniciará el instalador de Windows Security Essentials:
 
-![avir004](/assets/posts/images/avir004-e1476640053250.png)
+![avir004](/assets/posts/avir004-e1476640053250.png)
 
 Una vez finalizada la instalación se descargarán las últimas definiciones de virus y spyware:
 
-![avir005](/assets/posts/images/avir005-e1476640097312.png)
+![avir005](/assets/posts/avir005-e1476640097312.png)
 
 Tras terminar es recomendable realizar un **escaneo completo** de nuestro sistema para asegurarnos de que está libre de amenazas. Al ser un escaneo completo puede tardar un buen rato en completarse, por lo que podemos seguir trabajando mientras tanto. Una vez haya terminado la interfaz de Security Essentials mostrará el siguiente mensaje:
 
-![avir006](/assets/posts/images/avir006-e1476640192100.png)
+![avir006](/assets/posts/avir006-e1476640192100.png)
 
 Lo he probado una infinidad de veces en servidores en producción sin problema alguno excepto a la hora de desinstalarlo (pronto hablaremos de eso).
 

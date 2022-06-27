@@ -13,7 +13,7 @@ thumbnail-img: "/assets/posts/nesbox.png"
 
 Nesbox es, a falta de una manera sencilla de cargar homebrew, la mejor solución para poder rememorar los juegos de nuestra infancia en Xbox One.
 
-El emulador soporta los sistemas ![](images/ico-nes.png)[Nintendo](https://es.wikipedia.org/wiki/Nintendo_Entertainment_System), ![](images/ico-snes.png)[Super Nintendo](https://es.wikipedia.org/wiki/Super_Nintendo), ![](images/ico-megadrive.png)[Megadrive](https://es.wikipedia.org/wiki/Mega_Drive), ![](images/ico-gb.png)[Gameboy](https://es.wikipedia.org/wiki/Game_Boy) y ![](images/ico-gba.png)[Gameboy Advance](https://es.wikipedia.org/wiki/Game_Boy_Advance).
+El emulador soporta los sistemas ![](/assets/posts/ico-nes.png)[Nintendo](https://es.wikipedia.org/wiki/Nintendo_Entertainment_System), ![](/assets/posts/ico-snes.png)[Super Nintendo](https://es.wikipedia.org/wiki/Super_Nintendo), ![](/assets/posts/ico-megadrive.png)[Megadrive](https://es.wikipedia.org/wiki/Mega_Drive), ![](/assets/posts/ico-gb.png)[Gameboy](https://es.wikipedia.org/wiki/Game_Boy) y ![](/assets/posts/ico-gba.png)[Gameboy Advance](https://es.wikipedia.org/wiki/Game_Boy_Advance).
 
 Para poder utilizarlo necesitaremos una cuenta gratuita del servicio de almacenamiento en línea [Microsoft OneDrive](https://onedrive.live.com), donde se guardarán los juegos y los savestates.
 

@@ -27,4 +27,4 @@ Hablando ahora en serio, las teorías sobre la tercera parte del juego empiezan 
 
 En cualquier caso: _¡Feliz 15º Aniversario, Shenmue!_
 
-<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="text-align: center;"><a style="margin-left: auto; margin-right: auto;" href="/assets/posts/images/Shenmue_logo.png"><img src="/assets/posts/images/portal-cake.jpg" width="200" height="200" border="0"></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>The cake is a lie</i></td></tr></tbody></table>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="text-align: center;"><a style="margin-left: auto; margin-right: auto;" href="/assets/posts/Shenmue_logo.png"><img src="/assets/posts/portal-cake.jpg" width="200" height="200" border="0"></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>The cake is a lie</i></td></tr></tbody></table>
