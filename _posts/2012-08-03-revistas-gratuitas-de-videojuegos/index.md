@@ -6,10 +6,10 @@ categories:
 tags: 
   - "revistas"
   - "videojuegos"
-coverImage: "mmania.png"
+coverImage: "/assets/posts/mmania.png"
 ---
 
-[![](images/mmania.png)](http://1.bp.blogspot.com/-etOtLNLU0Ko/UBxSYAokZHI/AAAAAAAADmc/502NdjdwoWk/s1600/mmania.png)
+[![](/assets/posts/mmania.png)](http://1.bp.blogspot.com/-etOtLNLU0Ko/UBxSYAokZHI/AAAAAAAADmc/502NdjdwoWk/s1600/mmania.png)
 
 Hace ya unos cuantos años que no recurro a la prensa para enterarme de las noticias. La red está llena de lugares que se actualizan en tiempo real, que se pueden ver de manera gratuita.  
 No obstante muchas veces, ya sea por nostalgia o por cualquier otra razón, se echan de menos las revistas clásicas, con su formato a dos páginas y su elaborada maquetación. Aunque lo más fácil en estos casos sería pasarnos por el quiosco de turno a comprar la Hobby Consolas del mes (¿todavía existe?), en la red hay muchas alternativas de gran calidad que tienen poco que envidiar a lo que podemos encontrar en formato físico.  
@@ -26,7 +26,7 @@ Si bien la revista tiene una frecuencia de publicación más bien baja, cada 3 o
 
   
 
-[![](images/retromaniac.jpg)](http://1.bp.blogspot.com/-siaAEoaV6U8/UBxEuaULwvI/AAAAAAAADmE/KeHjHq1zG6o/s1600/retromaniac.jpg)
+[![](/assets/posts/retromaniac.jpg)](http://1.bp.blogspot.com/-siaAEoaV6U8/UBxEuaULwvI/AAAAAAAADmE/KeHjHq1zG6o/s1600/retromaniac.jpg)
 
   
 
@@ -43,7 +43,7 @@ RetroWiki es una revista retro hasta la médula. Aquí no hay cabida para juegos
 
   
 
-[![](images/retrowiki.png)](http://4.bp.blogspot.com/-ixgrqxxdfXU/UBxEw3eNxNI/AAAAAAAADmM/MD9KNKZXyOc/s1600/retrowiki.png)
+[![](/assets/posts/retrowiki.png)](http://4.bp.blogspot.com/-ixgrqxxdfXU/UBxEw3eNxNI/AAAAAAAADmM/MD9KNKZXyOc/s1600/retrowiki.png)
 
   
 
@@ -58,7 +58,7 @@ La más profesional en cuanto a diseño y contenidos, esta publicación mensual 
 
   
 
-[![](images/gamestribune.jpg)](http://1.bp.blogspot.com/-aX3ZWMSudDk/UBxEpYqVjhI/AAAAAAAADl4/jUAy02Ox8Wk/s1600/gamestribune.jpg)
+[![](/assets/posts/gamestribune.jpg)](http://1.bp.blogspot.com/-aX3ZWMSudDk/UBxEpYqVjhI/AAAAAAAADl4/jUAy02Ox8Wk/s1600/gamestribune.jpg)
 
   
 
@@ -77,7 +77,7 @@ Muy recomendable.
 
   
 
-[![](images/creativefuture.png)](http://pixelotes.com/wp-content/uploads/2012/08/creativefuture.png)
+[![](/assets/posts/creativefuture.png)](http://pixelotes.com/wp-content/uploads/2012/08/creativefuture.png)
 
   
 
