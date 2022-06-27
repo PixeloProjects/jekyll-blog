@@ -7,7 +7,7 @@ tags:
   - "emuladores"
   - "videojuegos"
   - "xbox"
-coverImage: "nesbox.png"
+coverImage: "/assets/posts/nesbox.png"
 ---
 
 Nesbox es, a falta de una manera sencilla de cargar homebrew, la mejor solución para poder rememorar los juegos de nuestra infancia en Xbox One.
@@ -22,4 +22,4 @@ Para comenzar haz clic sobre la ventana del emulador y pulsa el botón **A** del
 
 Estos son los controles para jugar:
 
-![](/assets/posts/nesbox.png)
+![](/assets/posts/instr-nesbox.png)
