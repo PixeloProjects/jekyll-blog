@@ -9,12 +9,12 @@ tags:
   - "dreamcast"
   - "shenmue"
   - "videojuegos"
-coverImage: "shenmue.png"
+coverImage: "/assets/posts/shenmue.png"
 ---
 
 Queda ya lejos aquel _29 de Diciembre de 1999_ en el que _[Shenmue](http://es.wikipedia.org/wiki/Shenmue)_ fue lanzado en el territorio japonés para la consola _[Dreamcast](http://es.wikipedia.org/wiki/Sega_Dreamcast)_ de [Sega](http://es.wikipedia.org/wiki/Sega). Un título que cuenta con la capacidad de polarizar al público, generando odios y pasiones como sólo una obra maestra es capaz de hacer. La _magnum opus_ **inacabada** de _[Yu Suzuki](http://es.wikipedia.org/wiki/Y%C5%AB_Suzuki)_.
 
-[![](images/Shenmue_logo.png)](images/Shenmue_logo.png)
+[![](/assets/posts/images/Shenmue_logo.png)](images/Shenmue_logo.png)
 
 Para aquellos que lo jugaron no es necesario alabar **las bondades** de este juego y su secuela, en realidad estaban pensadas como un sólo título. Conocen el **amor al detalle** que rezuma Shenmue por todos sus poros. Saben del **salto gráfico** que supuso el juego para el año en que salió. Seguro que son conscientes del increíble trabajo de **documentación** del que el equipo [Sega AM2](http://es.wikipedia.org/wiki/Sega-AM2) hizo gala, como puede verse en [esta comparativa](http://yokosuka-shenmue.webcindario.com/) entre el juego y el mundo real.
 
@@ -26,4 +26,4 @@ Hablando ahora en serio, las teorías sobre la tercera parte del juego empiezan 
 
 En cualquier caso: _¡Feliz 15º Aniversario, Shenmue!_
 
-<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="text-align: center;"><a style="margin-left: auto; margin-right: auto;" href="images/Shenmue_logo.png"><img src="images/portal-cake.jpg" width="200" height="200" border="0"></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>The cake is a lie</i></td></tr></tbody></table>
+<table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="text-align: center;"><a style="margin-left: auto; margin-right: auto;" href="/assets/posts/images/Shenmue_logo.png"><img src="/assets/posts/images/portal-cake.jpg" width="200" height="200" border="0"></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><i>The cake is a lie</i></td></tr></tbody></table>
