@@ -8,6 +8,7 @@ tags:
   - "videojuegos"
   - "xbox"
 coverImage: "/assets/posts/nesbox.png"
+thumbnail-img: "/assets/posts/nesbox.png"
 ---
 
 Nesbox es, a falta de una manera sencilla de cargar homebrew, la mejor solución para poder rememorar los juegos de nuestra infancia en Xbox One.

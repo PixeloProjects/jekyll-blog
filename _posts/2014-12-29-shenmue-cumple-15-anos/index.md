@@ -10,6 +10,7 @@ tags:
   - "shenmue"
   - "videojuegos"
 coverImage: "/assets/posts/shenmue.png"
+thumbnail-img: "/assets/posts/shenmue.png"
 ---
 
 Queda ya lejos aquel _29 de Diciembre de 1999_ en el que _[Shenmue](http://es.wikipedia.org/wiki/Shenmue)_ fue lanzado en el territorio japonés para la consola _[Dreamcast](http://es.wikipedia.org/wiki/Sega_Dreamcast)_ de [Sega](http://es.wikipedia.org/wiki/Sega). Un título que cuenta con la capacidad de polarizar al público, generando odios y pasiones como sólo una obra maestra es capaz de hacer. La _magnum opus_ **inacabada** de _[Yu Suzuki](http://es.wikipedia.org/wiki/Y%C5%AB_Suzuki)_.

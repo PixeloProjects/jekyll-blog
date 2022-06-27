@@ -11,6 +11,7 @@ tags:
   - "nintendo"
   - "retro"
 coverImage: "/assets/posts/KDL_logo.png"
+thumbnail-img: "/assets/posts/KDL_logo.png"
 ---
 
 Para estrenar esta página he añadido un longplay de Kirby's Dream Land.

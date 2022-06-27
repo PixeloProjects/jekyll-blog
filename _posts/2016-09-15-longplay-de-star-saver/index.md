@@ -4,6 +4,7 @@ date: "2016-09-15"
 categories: 
   - "otros"
 coverImage: "/assets/posts/ssaver.png"
+thumbnail-img: "/assets/posts/ssaver.png"
 ---
 
 En esta ocasión traemos un vídeo con el longplay de un juego de Game Boy algo atípico: The Adventures of Star Saver, juego de plataformas y acción desarrollado por A-Wave y publicado por Taito en 1991.

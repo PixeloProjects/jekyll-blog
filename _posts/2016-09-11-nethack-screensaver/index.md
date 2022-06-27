@@ -5,6 +5,7 @@ categories:
   - "informatica"
   - "otros"
 coverImage: "/assets/posts/rogue.png"
+thumbnail-img: "/assets/posts/rogue.png"
 ---
 
 Hace unos años el usuario Adman [publicó un salvapantallas](http://rec.games.roguelike.nethack.narkive.com/9fkZk4vc/nethack-screen-saver) para Windows capaz de reproducir partidas de Nethack en formato ttyrec (un formato que captura la salida de una terminal de texto).

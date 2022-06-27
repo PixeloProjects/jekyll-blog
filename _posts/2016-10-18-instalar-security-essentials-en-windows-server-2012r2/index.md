@@ -10,6 +10,7 @@ tags:
   - "windows-security-essentials"
   - "windows-server-2012"
 coverImage: "/assets/posts/mse.png"
+thumbnail-img: "/assets/posts/mse.png"
 ---
 
 Que **Windows 8** trajo consigo un sinfín de **cambios y mejoras** es algo indiscutible, a pesar de que algunas de ellas no tenminaran de convencer a los usuarios (un ejemplo de ello es la intefaz Metro **Modern UI**).
