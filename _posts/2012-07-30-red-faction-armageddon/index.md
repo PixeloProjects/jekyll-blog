@@ -9,7 +9,7 @@ tags:
 coverImage: "redfaction.jpg"
 ---
 
-[![](images/redfaction.jpg)](http://4.bp.blogspot.com/-0Busc45b078/UBcUsgwv9UI/AAAAAAAADjM/6m0OpTM8qHs/s1600/redfaction.jpg)
+[![](/assets/posts/redfaction.jpg)](/assets/posts/redfaction.jpg)
 
   
 
