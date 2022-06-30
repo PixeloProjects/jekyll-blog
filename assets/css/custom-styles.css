@@ -1,5 +1,23 @@
-p[class=" container-md " role="main"] {
-  background: white;
-  border-radius: 5px;
-  opacity: 0.9;
+/* CABECERA */
+
+/* GENERAL */
+.page-item.next {
+  color:red;
 }
+
+/* PRINCIPAL */
+.container-md {
+  background: rgba(255,255,255,0.95);
+  border-radius: 5px;
+  padding-bottom: 20px;
+}
+
+.posts-list {
+  background: rgba(255,255,255,1);
+}
+
+/* POST */
+
+/* TAGS */
+
+/* CONTACTO */
