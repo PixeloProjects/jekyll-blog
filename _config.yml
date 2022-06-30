@@ -259,7 +259,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-archives
+  #- jekyll-archives
   - jekyll-tagging
   - jekyll-tagging-related_posts
 
